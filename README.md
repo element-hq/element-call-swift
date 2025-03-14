@@ -1,8 +1,6 @@
 # Embedded Element Call for Swift
 
-Please see the main [Element Call repository](https://github.com/element-hq/element-call) for more information.
-
-Any issues should be filed in the main repository.
+SwiftPM package containing an embedded build of the Element Call widget.
 
 ## Copyright & License
 
